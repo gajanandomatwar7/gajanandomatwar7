@@ -57,6 +57,11 @@ Mindset     : "Understand Deeply. Build Efficiently. Optimize Continuously.""
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
+### AI / LLM Frameworks
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=langchain&logoColor=white)
+
 ---
 
 # 🚀 Development Philosophy
@@ -85,7 +90,8 @@ Mindset     : "Understand Deeply. Build Efficiently. Optimize Continuously.""
 
 ### 🤖 AI / ML Exploration
 
-* Exploring practical AI integrations and workflows
+* Building agentic workflows using **LangChain**
+* Designing stateful multi-agent pipelines with **LangGraph**
 * Learning model deployment & inference pipelines
 * Experimenting with open-source AI ecosystems
 * Building and testing models on Hugging Face
@@ -147,6 +153,7 @@ Mindset     : "Understand Deeply. Build Efficiently. Optimize Continuously.""
 → Exploring Computer Networks and distributed communication
 → Practicing problem solving & competitive programming
 → Experimenting with AI/ML workflows and Hugging Face
+→ Building LangChain pipelines and LangGraph agent workflows
 → Improving system design and backend architecture concepts
 ```
 
